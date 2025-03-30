@@ -1,0 +1,2 @@
+I tried to arrange this issue of multiple (about 3) traffic signs that are really different and have different names tho, find them selves having the same category name and number. It was pretty stressing but i couldnt really change so much things.
+i changed those that were having single category names but those categories that appeared multiple times, i just left them...well i wanted to try to make the AI sort the traffic signs names throuh the names they were egistered with directly. But finally found out it completely needed the codes to be changed so i left
